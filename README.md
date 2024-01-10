@@ -33,10 +33,4 @@ This is the introductory EE couse in UC Berkeley which will teach you the basics
   Lab3 - APS (acoustic position system) : you will learn the ideas behind GPS and implement a simple version to locate a microphone based on the acoustic signals received from several beacons.
 
 
-
-### What to learn more ?
-
----
-
-Check out [this repository](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) which contains all my self-learning materials : )
-
+This repo is forked from [here](https://github.com/PKUFlyingPig/EE16A). I will redo the lab part.
